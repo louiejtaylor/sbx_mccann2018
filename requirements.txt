@@ -1,0 +1,5 @@
+r-tidyverse
+r-rmarkdown
+r-viridis
+r-vegan
+pandoc
